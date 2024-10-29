@@ -1,2 +1,4 @@
 # Professional-Growth-CS230
-Project for CS 230 class
+This repository is dedicated to a project aimed at enhancing students' analytical skills for making informed decisions on ethical issues within the field of Computing. The project consists of two main parts:
+1. Meetup Attendance: Students are encouraged to attend a relevant meetup through Meetup.com, allowing them to engage with industry professionals and peers, gain insights into current trends, and reflect on ethical considerations in computer science.
+2. CSUEB Tech Club Involvement: Participants will also attend a local tech club event at California State University, East Bay (CSUEB), fostering community engagement and networking. Additionally, students will create accounts on GitHub and Stack Overflow to become familiar with essential tools and platforms in the tech industry.
